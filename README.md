@@ -1,2 +1,2 @@
-# Expanding Cards
+
 # Expanding-Cards
